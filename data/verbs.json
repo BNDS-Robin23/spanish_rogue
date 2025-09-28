@@ -1,0 +1,45 @@
+{
+  "metadata": {
+    "version": 1,
+    "language": "es",
+    "notes": "Present indicative forms for expanded regular and irregular verbs"
+  },
+  "verbs": [
+    { "infinitive": "hablar", "present_indicative": {"直陈式现在时+第一人称单数": "hablo", "直陈式现在时+第二人称单数": "hablas", "直陈式现在时+第三人称单数": "habla", "直陈式现在时+第一人称复数": "hablamos", "直陈式现在时+第二人称复数": "habláis", "直陈式现在时+第三人称复数": "hablan"} },
+    { "infinitive": "comer", "present_indicative": {"直陈式现在时+第一人称单数": "como", "直陈式现在时+第二人称单数": "comes", "直陈式现在时+第三人称单数": "come", "直陈式现在时+第一人称复数": "comemos", "直陈式现在时+第二人称复数": "coméis", "直陈式现在时+第三人称复数": "comen"} },
+    { "infinitive": "vivir", "present_indicative": {"直陈式现在时+第一人称单数": "vivo", "直陈式现在时+第二人称单数": "vives", "直陈式现在时+第三人称单数": "vive", "直陈式现在时+第一人称复数": "vivimos", "直陈式现在时+第二人称复数": "vivís", "直陈式现在时+第三人称复数": "viven"} },
+    { "infinitive": "leer", "present_indicative": {"直陈式现在时+第一人称单数": "leo", "直陈式现在时+第二人称单数": "lees", "直陈式现在时+第三人称单数": "lee", "直陈式现在时+第一人称复数": "leemos", "直陈式现在时+第二人称复数": "leéis", "直陈式现在时+第三人称复数": "leen"} },
+    { "infinitive": "escribir", "present_indicative": {"直陈式现在时+第一人称单数": "escribo", "直陈式现在时+第二人称单数": "escribes", "直陈式现在时+第三人称单数": "escribe", "直陈式现在时+第一人称复数": "escribimos", "直陈式现在时+第二人称复数": "escribís", "直陈式现在时+第三人称复数": "escriben"} },
+
+    { "infinitive": "ir", "present_indicative": {"直陈式现在时+第一人称单数": "voy", "直陈式现在时+第二人称单数": "vas", "直陈式现在时+第三人称单数": "va", "直陈式现在时+第一人称复数": "vamos", "直陈式现在时+第二人称复数": "vais", "直陈式现在时+第三人称复数": "van"} },
+    { "infinitive": "ser", "present_indicative": {"直陈式现在时+第一人称单数": "soy", "直陈式现在时+第二人称单数": "eres", "直陈式现在时+第三人称单数": "es", "直陈式现在时+第一人称复数": "somos", "直陈式现在时+第二人称复数": "sois", "直陈式现在时+第三人称复数": "son"} },
+    { "infinitive": "estar", "present_indicative": {"直陈式现在时+第一人称单数": "estoy", "直陈式现在时+第二人称单数": "estás", "直陈式现在时+第三人称单数": "está", "直陈式现在时+第一人称复数": "estamos", "直陈式现在时+第二人称复数": "estáis", "直陈式现在时+第三人称复数": "están"} },
+    { "infinitive": "tener", "present_indicative": {"直陈式现在时+第一人称单数": "tengo", "直陈式现在时+第二人称单数": "tienes", "直陈式现在时+第三人称单数": "tiene", "直陈式现在时+第一人称复数": "tenemos", "直陈式现在时+第二人称复数": "tenéis", "直陈式现在时+第三人称复数": "tienen"} },
+    { "infinitive": "hacer", "present_indicative": {"直陈式现在时+第一人称单数": "hago", "直陈式现在时+第二人称单数": "haces", "直陈式现在时+第三人称单数": "hace", "直陈式现在时+第一人称复数": "hacemos", "直陈式现在时+第二人称复数": "hacéis", "直陈式现在时+第三人称复数": "hacen"} },
+    { "infinitive": "poder", "present_indicative": {"直陈式现在时+第一人称单数": "puedo", "直陈式现在时+第二人称单数": "puedes", "直陈式现在时+第三人称单数": "puede", "直陈式现在时+第一人称复数": "podemos", "直陈式现在时+第二人称复数": "podéis", "直陈式现在时+第三人称复数": "pueden"} },
+    { "infinitive": "querer", "present_indicative": {"直陈式现在时+第一人称单数": "quiero", "直陈式现在时+第二人称单数": "quieres", "直陈式现在时+第三人称单数": "quiere", "直陈式现在时+第一人称复数": "queremos", "直陈式现在时+第二人称复数": "queréis", "直陈式现在时+第三人称复数": "quieren"} },
+    { "infinitive": "venir", "present_indicative": {"直陈式现在时+第一人称单数": "vengo", "直陈式现在时+第二人称单数": "vienes", "直陈式现在时+第三人称单数": "viene", "直陈式现在时+第一人称复数": "venimos", "直陈式现在时+第二人称复数": "venís", "直陈式现在时+第三人称复数": "vienen"} },
+    { "infinitive": "decir", "present_indicative": {"直陈式现在时+第一人称单数": "digo", "直陈式现在时+第二人称单数": "dices", "直陈式现在时+第三人称单数": "dice", "直陈式现在时+第一人称复数": "decimos", "直陈式现在时+第二人称复数": "decís", "直陈式现在时+第三人称复数": "dicen"} },
+    { "infinitive": "oír", "present_indicative": {"直陈式现在时+第一人称单数": "oigo", "直陈式现在时+第二人称单数": "oyes", "直陈式现在时+第三人称单数": "oye", "直陈式现在时+第一人称复数": "oímos", "直陈式现在时+第二人称复数": "oís", "直陈式现在时+第三人称复数": "oyen"} },
+    { "infinitive": "jugar", "present_indicative": {"直陈式现在时+第一人称单数": "juego", "直陈式现在时+第二人称单数": "juegas", "直陈式现在时+第三人称单数": "juega", "直陈式现在时+第一人称复数": "jugamos", "直陈式现在时+第二人称复数": "jugáis", "直陈式现在时+第三人称复数": "juegan"} },
+
+    { "infinitive": "volver", "present_indicative": {"直陈式现在时+第一人称单数": "vuelvo", "直陈式现在时+第二人称单数": "vuelves", "直陈式现在时+第三人称单数": "vuelve", "直陈式现在时+第一人称复数": "volvemos", "直陈式现在时+第二人称复数": "volvéis", "直陈式现在时+第三人称复数": "vuelven"} },
+    { "infinitive": "pensar", "present_indicative": {"直陈式现在时+第一人称单数": "pienso", "直陈式现在时+第二人称单数": "piensas", "直陈式现在时+第三人称单数": "piensa", "直陈式现在时+第一人称复数": "pensamos", "直陈式现在时+第二人称复数": "pensáis", "直陈式现在时+第三人称复数": "piensan"} },
+    { "infinitive": "dormir", "present_indicative": {"直陈式现在时+第一人称单数": "duermo", "直陈式现在时+第二人称单数": "duermes", "直陈式现在时+第三人称单数": "duerme", "直陈式现在时+第一人称复数": "dormimos", "直陈式现在时+第二人称复数": "dormís", "直陈式现在时+第三人称复数": "duermen"} },
+    { "infinitive": "pedir", "present_indicative": {"直陈式现在时+第一人称单数": "pido", "直陈式现在时+第二人称单数": "pides", "直陈式现在时+第三人称单数": "pide", "直陈式现在时+第一人称复数": "pedimos", "直陈式现在时+第二人称复数": "pedís", "直陈式现在时+第三人称复数": "piden"} },
+    { "infinitive": "cerrar", "present_indicative": {"直陈式现在时+第一人称单数": "cierro", "直陈式现在时+第二人称单数": "cierras", "直陈式现在时+第三人称单数": "cierra", "直陈式现在时+第一人称复数": "cerramos", "直陈式现在时+第二人称复数": "cerráis", "直陈式现在时+第三人称复数": "cierran"} },
+    { "infinitive": "contar", "present_indicative": {"直陈式现在时+第一人称单数": "cuento", "直陈式现在时+第二人称单数": "cuentas", "直陈式现在时+第三人称单数": "cuenta", "直陈式现在时+第一人称复数": "contamos", "直陈式现在时+第二人称复数": "contáis", "直陈式现在时+第三人称复数": "cuentan"} },
+    { "infinitive": "empezar", "present_indicative": {"直陈式现在时+第一人称单数": "empiezo", "直陈式现在时+第二人称单数": "empiezas", "直陈式现在时+第三人称单数": "empieza", "直陈式现在时+第一人称复数": "empezamos", "直陈式现在时+第二人称复数": "empezáis", "直陈式现在时+第三人称复数": "empiezan"} },
+    { "infinitive": "preferir", "present_indicative": {"直陈式现在时+第一人称单数": "prefiero", "直陈式现在时+第二人称单数": "prefieres", "直陈式现在时+第三人称单数": "prefiere", "直陈式现在时+第一人称复数": "preferimos", "直陈式现在时+第二人称复数": "preferís", "直陈式现在时+第三人称复数": "prefieren"} },
+    { "infinitive": "servir", "present_indicative": {"直陈式现在时+第一人称单数": "sirvo", "直陈式现在时+第二人称单数": "sirves", "直陈式现在时+第三人称单数": "sirve", "直陈式现在时+第一人称复数": "servimos", "直陈式现在时+第二人称复数": "servís", "直陈式现在时+第三人称复数": "sirven"} },
+    { "infinitive": "sentir", "present_indicative": {"直陈式现在时+第一人称单数": "siento", "直陈式现在时+第二人称单数": "sientes", "直陈式现在时+第三人称单数": "siente", "直陈式现在时+第一人称复数": "sentimos", "直陈式现在时+第二人称复数": "sentís", "直陈式现在时+第三人称复数": "sienten"} },
+
+    { "infinitive": "ver", "present_indicative": {"直陈式现在时+第一人称单数": "veo", "直陈式现在时+第二人称单数": "ves", "直陈式现在时+第三人称单数": "ve", "直陈式现在时+第一人称复数": "vemos", "直陈式现在时+第二人称复数": "veis", "直陈式现在时+第三人称复数": "ven"} },
+    { "infinitive": "poner", "present_indicative": {"直陈式现在时+第一人称单数": "pongo", "直陈式现在时+第二人称单数": "pones", "直陈式现在时+第三人称单数": "pone", "直陈式现在时+第一人称复数": "ponemos", "直陈式现在时+第二人称复数": "ponéis", "直陈式现在时+第三人称复数": "ponen"} },
+    { "infinitive": "salir", "present_indicative": {"直陈式现在时+第一人称单数": "salgo", "直陈式现在时+第二人称单数": "sales", "直陈式现在时+第三人称单数": "sale", "直陈式现在时+第一人称复数": "salimos", "直陈式现在时+第二人称复数": "salís", "直陈式现在时+第三人称复数": "salen"} },
+    { "infinitive": "traer", "present_indicative": {"直陈式现在时+第一人称单数": "traigo", "直陈式现在时+第二人称单数": "traes", "直陈式现在时+第三人称单数": "trae", "直陈式现在时+第一人称复数": "traemos", "直陈式现在时+第二人称复数": "traéis", "直陈式现在时+第三人称复数": "traen"} },
+    { "infinitive": "conducir", "present_indicative": {"直陈式现在时+第一人称单数": "conduzco", "直陈式现在时+第二人称单数": "conduces", "直陈式现在时+第三人称单数": "conduce", "直陈式现在时+第一人称复数": "conducimos", "直陈式现在时+第二人称复数": "conducís", "直陈式现在时+第三人称复数": "conducen"} },
+    { "infinitive": "conocer", "present_indicative": {"直陈式现在时+第一人称单数": "conozco", "直陈式现在时+第二人称单数": "conoces", "直陈式现在时+第三人称单数": "conoce", "直陈式现在时+第一人称复数": "conocemos", "直陈式现在时+第二人称复数": "conocéis", "直陈式现在时+第三人称复数": "conocen"} },
+    { "infinitive": "parecer", "present_indicative": {"直陈式现在时+第一人称单数": "parezco", "直陈式现在时+第二人称单数": "pareces", "直陈式现在时+第三人称单数": "parece", "直陈式现在时+第一人称复数": "parecemos", "直陈式现在时+第二人称复数": "parecéis", "直陈式现在时+第三人称复数": "parecen"} }
+  ]
+}
